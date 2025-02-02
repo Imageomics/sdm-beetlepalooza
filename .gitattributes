@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9e46865dadf5ef887f71c0b6b245ca8bd52da6f189bf38771ca9b98cec0e6e92
-size 100
+remove_background.ipynb filter=lfs diff=lfs merge=lfs -text
